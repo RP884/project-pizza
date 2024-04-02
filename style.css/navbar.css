@@ -1,0 +1,20 @@
+body{
+    background-color: white;
+    margin: auto;
+}
+.navbar{
+    background-color:  gray;
+    margin: auto;
+    padding: 2%;
+}
+.navbar a{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+
+}
+.navbar a:hover{
+    border: 1px solid white;
+    border-radius: 1%;
+    
+}
